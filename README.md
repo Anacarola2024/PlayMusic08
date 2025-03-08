@@ -1,3 +1,7 @@
+
+<img width="338" alt="Captura de pantalla playMusic" src="https://github.com/user-attachments/assets/10c7d7d7-6483-4cf4-b4e9-4dc86a43f6fd" />
+
+
 # music-play
 
 This template should help get you started developing with Vue 3 in Vite.
